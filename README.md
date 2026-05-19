@@ -1,1 +1,1 @@
-# serhatalper.com
+Serhat ALper (ben) ait kişisel blog sitesi. html js ve css teknolojileri ile hazırlanmış slider wrapper... gibi kütüphanlerin import edildiği ve ileriye dönük üstü açık geliştirilebilir animasyonlu ve görsel bir web sitesi.
